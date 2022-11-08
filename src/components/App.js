@@ -13,6 +13,7 @@ function App() {
         allowFullScreen
         title="Thinking in React"
       />
+      <video />
     </div>
   );
 }
